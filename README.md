@@ -1,10 +1,6 @@
-<h1 align="center">Vector</h1>
-<p align="center">
-	<img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="license">
-	<img src="https://img.shields.io/github/tag/aleksander73/vector.svg?label=version&style=flat-square" alt="version">
-</p>
+# Vector
 
-Vector is an open source 3d game engine framework for Android written in Java and licensed under MIT.
+Vector is an open source 3d game engine framework for Android written in Java and OpenGL ES.
 
 ## Features
 * rendering engine written in OpenGL
